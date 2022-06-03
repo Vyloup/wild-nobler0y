@@ -1,5 +1,5 @@
 - 👋 I’m @wildvyloup
-- 👀 I’m interested Internet
-- 🌱 I currently learn  
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in Internet
+- 🌱 I'm currently learning  
+- 💞️ I’m looking to the future
 - 📫 loup@none.cz
