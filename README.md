@@ -1,4 +1,4 @@
-- 👋 I’m @wildvyloup
+- 👋 I’m @wild_loup
 - 👀 I’m interested in Internet
 - 🌱 I'm currently learning  
 - 💞️ I’m looking to the future
