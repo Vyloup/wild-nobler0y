@@ -1,5 +1,4 @@
 - 👋 I’m @vyloup
-- 👀 I’m interested in Internet
-- 🌱 I'm currently learning  
-- 💞️ I’m looking to the future
+- 👀 I’m interested
+- 🌱 I'm learning
 - 📫 loup@none.cz
